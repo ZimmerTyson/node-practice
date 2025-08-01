@@ -16,4 +16,4 @@ simple express server to serve static html, CSS, and js files
 ### steps
   (to see all npm commands type npm --help in console)
   1. npm init -y
-  2. 
+  2. npm install express path
